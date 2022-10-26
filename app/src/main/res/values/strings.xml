@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Formulas</string>
+    <string name="selecciona_formulas">Selecciona una fórmula</string>
+    <string name="hello_blank_fragment">Selecciona una fórmula para mostrar los parámetros de entrada</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="hinta">Valor de a</string>
+    <string name="hintb">Valor de b</string>
+    <string name="hintc">Valor de la base</string>
+    <string name="hintu">Valor de u</string>
+    <string name="hintv">Valor de v</string>
+
+    <string name="formula0">Fórmulas disponibles</string>
+    <string name="formula1">Binomio al cuadrado</string>
+    <string name="formula2">Producto de logaritmos</string>
+    <string name="formula3">Suma de ángulos</string>
+
+
+    <string name="resultado">Resultado</string>
+    <string name="formula_seleccionada">Fórmula seleccionada</string>
+
+
+    <string name="ingresa_un_valor">Proporciona valores para los campos vacíos</string>
+    <string name="valor_requerido">Se requiere un número</string>
+
+    <string name="version">Versión 1.0</string>
+    <string name="developer">Carlos Sánchez Perales</string>
+
+</resources>

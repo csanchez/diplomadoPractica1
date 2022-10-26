@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulas</string>
+    <string name="selecciona_formulas">Select a formula</string>
+    <string name="hello_blank_fragment">Select a formula to display input parameters</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="hinta">Value of a</string>
+    <string name="hintb">Value of b</string>
+    <string name="hintc">Basis value</string>
+    <string name="hintu">Value of u</string>
+    <string name="hintv">Value of v</string>
+
+    <string name="formula0">Available Formulas</string>
+    <string name="formula1">Squared binomial</string>
+    <string name="formula2">Product of logarithms</string>
+    <string name="formula3">Sum of angles</string>
+
+
+    <string name="resultado">Result</string>
+    <string name="formula_seleccionada">Selected formula</string>
+
+
+    <string name="ingresa_un_valor">Provide values for empty fields</string>
+    <string name="valor_requerido">A number is required</string>
+
+    <string name="version">Version 1.0</string>
+    <string name="developer">Carlos Sánchez Perales</string>
+
+</resources>

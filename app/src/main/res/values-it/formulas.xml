@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formulas_array">
+        <item>Formule disponibili</item>
+        <item>Binomio quadrato</item>
+        <item>Prodotto di logaritmi</item>
+        <item>Somma degli angoli</item>
+    </string-array>
+</resources>
